@@ -102,10 +102,10 @@ and run all cells.
 
 ##  Author
 
-**Mubashir Rashid**
+Mubashir Rashid
 
 ---
 
 ## Tagline
 
-###  Turning data into insights, one project at a time.
+  Transforming raw data into meaningful insights through analytics.
